@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Raphael, sou analista de infraestrutura migrando para área de desenvolvimento mobile. Ao longo de anos em suporte, por curiosidade resolvi mergulhar a fundo no mundo Android, acredito que me encontrei. Hoje venho me dedicando em aprimorar meus conhecimentos aprendendo principais Bibliotecas e Arquiteturas.
+Me chamo Raphael, sou analista de infraestrutura se ambientando na área de desenvolvimento mobile. Ao longo de anos em suporte, por curiosidade resolvi mergulhar a fundo no mundo Android, acredito que me encontrei. Hoje venho me dedicando em aprimorar meus conhecimentos aprendendo principais Bibliotecas e Arquiteturas.
 Além disso tenho outros hobbies, como: Tocar violão, ouvir variados tipos de música(Até clássica rs), jogar futebol e torcer pro Vasco da Gama.
 
 
